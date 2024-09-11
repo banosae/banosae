@@ -1,4 +1,6 @@
-## Hi there 👋
+## Seunghwan Kim
+### I am undergarduate student at Seoul National University of Science and Technology.
+### My major is Electronic IT Media Engineering
 
 <!--
 **banosae/banosae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
